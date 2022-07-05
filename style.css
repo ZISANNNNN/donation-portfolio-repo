@@ -8,17 +8,17 @@ body{
     height: 400px;
     background-size: cover;
    text-align:center;
-    color: white;
+    color: white;}
     
-}
 .donate-now{
+
     text-decoration: none;
     background-color: rgba(241, 84, 6, 0.874);
     padding: 10px;
     margin:10px;
     color: white;
-    border-radius: 5px;
-}
+    border-radius: 5px;}
+
 .donate-today{
     text-align: center;
 }
@@ -72,4 +72,29 @@ body{
 }
 .half-width img{
     width: 40%;
+}
+.email-submit{
+    background-color: blanchedalmond;
+   height: 60px ;
+   width: 40%;
+   margin-left:400px ;
+   
+}
+.subscribe{
+    background-color: rgba(241, 84, 6, 0.874) ;
+    color: white;
+    padding: 5px;
+    margin: 15px;
+
+}
+.orange{ color: rgba(241, 84, 6, 0.874) ;}
+
+    
+.humble{
+    color: white;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    
 }
