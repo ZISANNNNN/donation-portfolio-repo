@@ -45,3 +45,23 @@ body{
     text-align: center;
     margin: 5px;
 }
+.donate-plan{
+    display: flex;
+    
+    
+}
+#food-family{
+    background-color: rgb(190, 190, 190);
+    margin: 10px;
+    padding: 10px;
+}
+#shelter-family{
+    background-color: rgb(211, 181, 186);
+    margin: 10px;
+    padding: 10px;
+}
+#education-family{
+    background-color: blanchedalmond;
+    margin: 10px;
+    padding: 10px;
+}
